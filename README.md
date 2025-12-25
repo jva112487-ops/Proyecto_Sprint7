@@ -23,4 +23,4 @@ La aplicación proporciona las siguientes características:
 2. Ejecutar la aplicación: `streamlit run app.py`
 
 ## Enlace a la aplicación desplegada
-[Se agregará el enlace de Render una vez desplegada]
+[[Se agregará el enlace de Render una vez desplegada](https://proyecto-sprint7-ok.onrender.com/)]
