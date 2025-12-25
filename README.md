@@ -24,3 +24,4 @@ La aplicación proporciona las siguientes características:
 
 ## Enlace a la aplicación desplegada
 [[Se agregará el enlace de Render una vez desplegada](https://proyecto-sprint7-ok.onrender.com/)]
+
